@@ -1,0 +1,51 @@
+product_id,name,category,series,product_code,color,finish,price,img
+1,Bosch Fridge Series 4,Refrigerator,Series 4,RF400B,Silver,Matte,50000,https://media3.bosch-home.com/Product_Shots/1800x1012/23239530_CST22S24NI_STP_def.webp
+2,Bosch Fridge Series 6,Refrigerator,Series 6,RF600B,White,Glossy,60000,https://media3.bosch-home.com/Product_Shots/1800x1012/23139047_CST22W33PI_STP_def.webp
+3,Bosch Fridge Series 8,Refrigerator,Series 8,RF800B,Black,Matte,75000,https://media3.bosch-home.com/Product_Shots/1800x1012/20734318_KGN56CX41I_STP_def.webp
+4,Bosch Washer Series 4,Washing Machine,Series 4,WM400B,White,Glossy,30000,https://media3.bosch-home.com/Product_Shots/1800x1012/16882679_WAJ2426GIN_STP_def.webp
+5,Bosch Washer Series 6,Washing Machine,Series 6,WM600B,Silver,Matte,45000,https://media3.bosch-home.com/Product_Shots/1800x1012/24491152_WGA252ZPIN_STP_def.webp
+6,Bosch Washer Series 8,Washing Machine,Series 8,WM800B,Black,Glossy,60000,https://media3.bosch-home.com/Product_Shots/1800x1012/23420985_WGA1320TIN_STP_def.webp
+7,Bosch Oven Series 4,Oven,Series 4,OV400B,Black,Matte,25000,https://media3.bosch-home.com/Product_Shots/1800x1012/20824976_HBF133BR0I_STP_def.webp
+8,Bosch Oven Series 6,Oven,Series 6,OV600B,Silver,Glossy,40000,https://media3.bosch-home.com/Product_Shots/600x600/9140764_HBJ577EB0R_BuiltInOven_Bosch_STP_def.webp
+9,Bosch Oven Series 8,Oven,Series 8,OV800B,White,Matte,60000,https://media3.bosch-home.com/Product_Shots/600x600/20123455_HSG7364B1B_STP_def.webp
+10,Bosch Hob Series 4,Hob,Series 4,HB400B,Silver,Glossy,20000,https://media3.bosch-home.com/Product_Shots/600x600/20115395_PNP0E6W10I_STP_def.webp
+11,Bosch Hob Series 6,Hob,Series 6,HB600B,Black,Matte,35000,https://media3.bosch-home.com/Product_Shots/600x600/19206518_PNW1E6V10I_STP_def.webp
+12,Bosch Hob Series 8,Hob,Series 8,HB800B,Silver,Glossy,50000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA02270947_PPQ9B6O90_GasHob_build-in_Bosch_STP_def.webp
+13,Bosch Chimney Series 4,Chimney,Series 4,CH400B,Black,Matte,15000,https://media3.bosch-home.com/Product_Shots/600x600/21089725_DWKA98H60I_STP_def.webp
+14,Bosch Chimney Series 6,Chimney,Series 6,CH600B,Silver,Glossy,30000,https://media3.bosch-home.com/Product_Shots/600x600/19477165_DWEA98H60I_STP_def.webp
+15,Bosch Chimney Series 8,Chimney,Series 8,CH800B,White,Matte,45000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01743434_STP_DWK98PR60_1181892_def.webp
+16,Bosch Coffee Maker Series 4,Coffee Maker,Series 4,CM400B,Black,Glossy,10000,https://media3.bosch-home.com/Product_Shots/600x600/20303272_TIE20301_STP_D_def.webp
+17,Bosch Coffee Maker Series 6,Coffee Maker,Series 6,CM600B,Silver,Matte,15000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA02913434_J1036_2235675_TIS65621RW_korr_def.webp
+18,Bosch Coffee Maker Series 8,Coffee Maker,Series 8,CM800B,White,Glossy,20000,https://media3.bosch-home.com/Product_Shots/600x600/20303272_TIE20301_STP_D_def.webp
+19,Bosch Dryer Series 4,Dryer,Series 4,DR400B,White,Matte,25000,https://media3.bosch-home.com/Product_Shots/1800x1012/23518540_WPG24108IN_STP_def.webp
+20,Bosch Dryer Series 6,Dryer,Series 6,DR600B,Black,Glossy,35000,https://media3.bosch-home.com/Product_Shots/1800x1012/16668124_WTG8640SIN_STP_def.webp
+21,Bosch Dryer Series 8,Dryer,Series 8,DR800B,Silver,Matte,50000,https://media3.bosch-home.com/Product_Shots/1800x1012/16882679_WAJ2426GIN_STP_def.webp
+22,Bosch Dishwasher Series 4,Dishwasher,Series 4,DW400B,Silver,Matte,30000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA03248193_SMS6ZCW42E_def.webp
+23,Bosch Dishwasher Series 6,Dishwasher,Series 6,DW600B,White,Glossy,40000,https://media3.bosch-home.com/Product_Shots/600x600/17016117_SMS6ITW00I_STP_def.webp
+24,Bosch Dishwasher Series 8,Dishwasher,Series 8,DW800B,Black,Matte,55000,https://media3.bosch-home.com/Product_Shots/600x600/17016152_SMS6HVI00I_STP_def.webp
+25,Bosch Food Processor Series 4,Food Processor,Series 4,FP400B,White,Glossy,12000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01763724_G6471_MCM3501M_1198808_def.webp
+26,Bosch Food Processor Series 6,Food Processor,Series 6,FP600B,Silver,Matte,18000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01763724_G6471_MCM3501M_1198808_def.webp
+27,Bosch Food Processor Series 8,Food Processor,Series 8,FP800B,Black,Glossy,25000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01763724_G6471_MCM3501M_1198808_def.webp
+28,Bosch Mixer Grinder Series 4,Mixer Grinder,Series 4,MG400B,White,Matte,10000,https://media3.bosch-home.com/Product_Shots/600x600/22535822_MGM8856BIN_STP_D_def.webp
+29,Bosch Mixer Grinder Series 6,Mixer Grinder,Series 6,MG600B,Silver,Glossy,15000,https://media3.bosch-home.com/Product_Shots/600x600/15695224_20414681_def.webp
+30,Bosch Mixer Grinder Series 8,Mixer Grinder,Series 8,MG800B,Black,Matte,20000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA03004553_J2429_2320375_MGM8832WIN_def.webp
+31,Bosch Dishwasher Series 4,Dishwasher,Series 4,DW410B,White,Glossy,30000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA02680311_i7902_2030155_SMS66GI01I_def.webp
+32,Bosch Refrigerator Series 6,Refrigerator,Series 6,RF620B,Black,Matte,80000,https://media3.bosch-home.com/Product_Shots/1800x1012/23239456_CST18U14PI_STP_def.webp
+33,Bosch Hob Series 8,Hob,Series 8,HB810B,Silver,Glossy,45000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01677239_PRS9A6D70_def.webp
+34,Bosch Coffee Maker Series 4,Coffee Maker,Series 4,CM420B,Silver,Matte,11000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA02913434_J1036_2235675_TIS65621RW_korr_def.webp
+35,Bosch Oven Series 6,Oven,Series 6,OV610B,Black,Glossy,55000,https://media3.bosch-home.com/Product_Shots/600x600/20123431_HBA7741B1_STP_def.webp
+36,Bosch Dryer Series 8,Dryer,Series 8,DR810B,White,Matte,40000,https://media3.bosch-home.com/Product_Shots/1800x1012/16882679_WAJ2426GIN_STP_def.webp
+37,Bosch Chimney Series 4,Chimney,Series 4,CH410B,Black,Glossy,32000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01743430_STP_DWK98PR20_1181887_def.webp
+38,Bosch Mixer Grinder Series 6,Mixer Grinder,Series 6,MG620B,Black,Matte,17000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA02779817_J1075_2117451_MGM6641BIN_korr_def.webp
+39,Bosch Washer Series 8,Washing Machine,Series 8,WM810B,Silver,Glossy,69000,https://media3.bosch-home.com/Product_Shots/1800x1012/22359996_WOE802S7IN_STP_def.webp
+40,Bosch Dishwasher Series 6,Dishwasher,Series 6,DW620B,Silver,Matte,47000,https://media3.bosch-home.com/Product_Shots/600x600/14590892_SMD6ZCX50E_STP_def.webp
+41,Bosch Fridge Series 8,Refrigerator,Series 8,RF820B,White,Glossy,96000,https://media3.bosch-home.com/Product_Shots/1800x1012/23410364_CMC36S03NI_STP_high-res-preview_def.webp
+42,Bosch Hob Series 4,Hob,Series 4,HB420B,Black,Matte,30000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01693214_PCS9A5C90N_def.webp
+43,Bosch Chimney Series 8,Chimney,Series 8,CH810B,Silver,Glossy,39000,https://media3.bosch-home.com/Product_Shots/600x600/9119686_DWG068D60I_ChimneyHood_Bosch_STP_def.webp
+44,Bosch Dryer Series 6,Dryer,Series 6,DR610B,Black,Glossy,52000,https://media3.bosch-home.com/Product_Shots/1800x1012/16882679_WAJ2426GIN_STP_def.webp
+45,Bosch Dishwasher Series 4,Dishwasher,Series 4,DW430B,White,Matte,32000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA03248069_SMI4HCS48E_def.webp
+46,Bosch Coffee Maker Series 6,Coffee Maker,Series 6,CM630B,Silver,Glossy,18000,https://media3.bosch-home.com/Product_Shots/600x600/20303272_TIE20301_STP_D_def.webp
+47,Bosch Mixer Grinder Series 8,Mixer Grinder,Series 8,MG820B,Black,Glossy,22000,https://media3.bosch-home.com/Product_Shots/600x600/20839438_MGM8842DIN_STP_D_def.webp
+48,Bosch Food Processor Series 4,Food Processor,Series 4,FP420B,White,Glossy,16000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA01763724_G6471_MCM3501M_1198808_def.webp
+49,Bosch Oven Series 8,Oven,Series 8,OV820B,Black,Matte,70000,https://media3.bosch-home.com/Product_Shots/600x600/MCSA00766737_411064_HSG636BB1_def.webp
+50,Bosch Washer Series 6,Washing Machine,Series 6,WM620B,Silver,Glossy,50000,https://media3.bosch-home.com/Product_Shots/1800x1012/19574339_WOI905R0IN_STP_def.webp

@@ -1,0 +1,29 @@
+product_id,name,category,series,product_code,color,price,img
+1,Bosch Series 6 washing machine,Washing_machine,6,1,Black,"50,000",https://media3.bosch-home.com/Product_Shots/1800x1012/24491152_WGA252ZPIN_STP_def.webp
+2,Bosch Series 4 washing machine,Washing_machine,4,2,white,"20,000",https://media3.bosch-home.com/Product_Shots/1800x1012/17856205_WLJ2026WIN_STP_def.webp
+3,Bosch Series 6 tumble dryer,tumble_dryer,6,3,silver,"67,000",https://media3.bosch-home.com/Product_Shots/1800x1012/16668124_WTG8640SIN_STP_def.webp
+4,Bosch Series 6 tumble dryer,tumble_dryer,4,4,white,"54,000",https://media3.bosch-home.com/Product_Shots/1800x1012/20144454_WPG23100IN_STP_def.webp
+5,Bosch cleaning liquid,cleaning- WM,0,5,lavender,650,https://media3.bosch-home.com/Product_Shots/1800x1012/25319293_17007435_1_def.webp
+6,Bosch Fabric softner,cleaning- WM,0,6,nil,220,https://media3.bosch-home.com/Product_Shots/900x506/25256882_17002492_1_def.webp
+7,Bosch Cover,cleaning- WM,0,7,grey,750,https://media3.bosch-home.com/Product_Shots/900x506/23203312_00579248_1_def.webp
+8,Bosch series 4 Microwave ,Microwave,4,8,Black,"70,000",https://media3.bosch-home.com/Product_Shots/300x300/MCSA02120299_BEL553MS0B_CompactOven_Bosch_STP_def.webp
+9,Bosch series 6 Microwave ,Microwave,6,9,Black,"80,000",https://media3.bosch-home.com/Product_Shots/300x300/23599508_BEL554MB0_CompactOven_Bosch_STP_def.webp
+10,Bosch series 6 Oven,Oven,6,10,Black,"200,000",https://media3.bosch-home.com/Product_Shots/300x300/9140764_HBJ577EB0R_BuiltInOven_Bosch_STP_def.webp
+11,Bosch series 4 Oven,Oven,4,11,Black,"150,000",https://media3.bosch-home.com/Product_Shots/300x300/20511924_HBJ534EB0I_STP_def.webp
+12,Bosch series 4 steamoven,Steam_oven,4,12,Black,"250,000",https://media3.bosch-home.com/Product_Shots/300x300/MCSA00766737_411064_HSG636BB1_def.webp
+13,Bosch series 6 steamoven,Steam_oven,6,13,Black,"300,000",https://media3.bosch-home.com/Product_Shots/300x300/20123455_HSG7364B1B_STP_def.webp
+14,Bosch glove,glove,0,14,orange,450,https://media3.bosch-home.com/Product_Shots/300x300/19999093_17002468_def.webp
+15,Bosch series 4 cooktop,Cooktop,4,15,black,"7,500",https://media3.bosch-home.com/Product_Shots/300x300/19206518_PNW1E6V10I_STP_def.webp
+16,Bosch series 6 cooktop,Cooktop,6,16,Black,"11,000",https://media3.bosch-home.com/Product_Shots/300x300/20115395_PNP0E6W10I_STP_def.webp
+17,Bosch series 4 hob,hob,4,17,Black,"50,000",https://media3.bosch-home.com/Product_Shots/300x300/19898030_PND7B6F20I_STP_def.webp
+18,Bosch series 6 hob,hob,6,18,Black,"65,000",https://media3.bosch-home.com/Product_Shots/300x300/19898043_PNI7B6G20I_STP_def.webp
+19,Bosch series 4 chimney,chimney,4,19,Black,"75,000",https://media3.bosch-home.com/Product_Shots/300x300/19477165_DWEA98H60I_STP_def.webp
+20,Bosch series 6 chimney,chimney,6,20,Black,"185,000",https://media3.bosch-home.com/Product_Shots/300x300/MCSA01743434_STP_DWK98PR60_1181892_def.webp
+21,Bosch series 4 dishwasher,Dishwasher,4,21,Black,"90,000",https://media3.bosch-home.com/Product_Shots/300x300/21043435_SMS4HMB62T_STP_def.webp
+22,Bosch series 6 dishwasher,Dishwasher,6,22,white,"101,000",https://media3.bosch-home.com/Product_Shots/300x300/MCSA03248193_SMS6ZCW42E_def.webp
+23,Bosch series 4 mixer,mixer,4,23,red,"4,000",https://media3.bosch-home.com/Product_Shots/300x300/15695224_20414681_def.webp
+24,Bosch series 6 mixer,mixer,6,24,blue,"7,000",https://media3.bosch-home.com/Product_Shots/300x300/20840476_MGM6642DIN_STP_D_def.webp
+25,Bosch Hand blender series 4,bleander,4,25,red,"2,000",https://media3.bosch-home.com/Product_Shots/300x300/20840207_MS1WR1110I_STP_D_def.webp
+26,Bosch Hand blender series 6,bleander,6,26,black,"2,500",https://media3.bosch-home.com/Product_Shots/300x300/22536412_Main_Image_MS1BG1151I_STP_D_def.webp
+27,Bosch Juice extractor series 4,Extractor,4,27,black,"18,000",https://media3.bosch-home.com/Product_Shots/300x300/14927236_MESM731MIN_STP_D_def.webp
+28,Bosch Juice extractor series 6,Extractor,6,28,white,"20,000",https://media3.bosch-home.com/Product_Shots/300x300/MCSA01956680_H1632_MESM500W_1361613_def.webp
